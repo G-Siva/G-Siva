@@ -38,16 +38,13 @@ MongoDB • Python • Git & GitHub • Cloud (GCP basics)
 - **Stroix AI** — Pantry management app  
 - **Image Forgery Detection Extension** — Chrome + Flask + CNN  
 - **Landing Page Replicas** — Pixel-perfect frontend builds  
-- **Fullstack Apps (MERN / React+API)**
-
-(You can add links below when ready)
 
 ---
 
 ## 📫 Connect With Me  
-- **Email:** your-email  
-- **LinkedIn:** your-linkedin  
-- **GitHub:** your-username  
+- **Email:** gsivasubramanian19@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sivasubramanian19
+- **GitHub:** https://www.github.com/G-Siva
 
 ---
 
