@@ -1,7 +1,7 @@
 <!-- TOP BANNER -->
 <br/>
 <p align="center">
-  <img src="RAW_LINK_TO_TOP_BANNER" alt="Siva Subramanian Banner" width="100%" />
+  <img src="https://github.com/G-Siva/G-Siva/blob/main/Red%20and%20White%20Bold%20Designer%20LinkedIn%20Banner.png " alt="Siva Subramanian Banner" width="100%" />
 </p>
 <br/>
 
@@ -24,7 +24,7 @@ Currently exploring deeper into the MERN stack, React, Next.js, and modern devel
 <!-- BOTTOM TECH STACK IMAGE -->
 <br/>
 <p align="center">
-  <img src="RAW_LINK_TO_BOTTOM_BANNER" alt="Tech Stack" width="100%" />
+  <img src="https://github.com/G-Siva/G-Siva/blob/main/tech%20stack%20banner.png" alt="Tech Stack" width="100%" />
 </p>
 <br/>
 
