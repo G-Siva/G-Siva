@@ -1,0 +1,53 @@
+<!-- TOP BANNER -->
+<br/>
+<p align="center">
+  <img src="RAW_LINK_TO_TOP_BANNER" alt="Siva Subramanian Banner" width="100%" />
+</p>
+<br/>
+
+# 👋 Hi, I'm Siva Subramanian G  
+### Fullstack Developer | Frontend Specialist | Exploring DevOps & Next.js
+
+I love building clean, responsive, and user-focused applications.  
+Currently exploring deeper into the MERN stack, React, Next.js, and modern developer tooling.
+
+---
+
+## 🚀 About Me
+- 🌐 Fullstack & Frontend Developer  
+- 📱 Interested in Android development & Chrome extension engineering  
+- ⚙️ Exploring DevOps workflows and deployment automation  
+- 🧠 Worked on AI-based image forgery detection (CNN + Flask + Chrome Extension)  
+- 🔭 Building **Stroix AI** — a pantry management app  
+
+---
+<!-- BOTTOM TECH STACK IMAGE -->
+<br/>
+<p align="center">
+  <img src="RAW_LINK_TO_BOTTOM_BANNER" alt="Tech Stack" width="100%" />
+</p>
+<br/>
+
+## 🛠️ Tech & Tools I Use
+JavaScript • React • Next.js • Tailwind CSS • Node.js • Express  
+MongoDB • Python • Git & GitHub • Cloud (GCP basics)
+
+---
+
+## 📌 Highlight Projects
+- **Stroix AI** — Pantry management app  
+- **Image Forgery Detection Extension** — Chrome + Flask + CNN  
+- **Landing Page Replicas** — Pixel-perfect frontend builds  
+- **Fullstack Apps (MERN / React+API)**
+
+(You can add links below when ready)
+
+---
+
+## 📫 Connect With Me  
+- **Email:** your-email  
+- **LinkedIn:** your-linkedin  
+- **GitHub:** your-username  
+
+---
+
