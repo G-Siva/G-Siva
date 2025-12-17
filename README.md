@@ -41,6 +41,14 @@ MongoDB • Python • Git & GitHub • Cloud (GCP basics)
 
 ---
 
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=G-Siva5&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Siva&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
 ## 📫 Connect With Me  
 - **Email:** gsivasubramanian19@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/sivasubramanian19
